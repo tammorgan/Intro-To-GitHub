@@ -1,2 +1,4 @@
 # Intro-To-GitHub
-A test repo for the intro workshop
+A test repo
+
+This is some new text
